@@ -4,7 +4,7 @@
 
 Through strong progress in sensor technology in recent years, the amount of data produced by IIoT devices has rapidly increased.
 This data provides new opportunities for companies, who know how to solve the new data challenges. One of the promising solutions is Linked Data.
-While Linked Data principles are already heavily established on the web, manufacturing environments still lack mature solutions for many use cases \cite{Zadeh2017}.
+While Linked Data principles are already heavily established on the web, manufacturing environments still lack mature solutions for many use cases.
 
 This thesis documents the approach of using a container-based micro-service architecture to design and implement a Linked Data acquisition and visualization architecture.
 The goal of the architecture was to publish and connect Linked Data from different sources and to provide a generalizable application interface(API) for users that hides the complexity of the underlying System. 
