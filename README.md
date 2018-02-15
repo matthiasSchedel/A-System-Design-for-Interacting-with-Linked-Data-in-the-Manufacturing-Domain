@@ -14,8 +14,12 @@ As a proof of concept four example applications have been developed that make us
 The focus of the architecture design was to ensure the principles re-usability, fault isolation and resilience of individual components.
 After design and implementation, the architecture with its overlaying app-interface has been tested and evaluated in a user study.
 
-### Architecture 
+## Architecture 
+
+##### Architecture Design
 
 ![Architecture Design](images/shopfloor_app_arch.png)
+
+##### Apps - The architecture building blocks
 
 ![Apps - The architecture building blocks](images/app_anatomy.png)
