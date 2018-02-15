@@ -16,6 +16,6 @@ After design and implementation, the architecture with its overlaying app-interf
 
 ### Architecture 
 
-![Architecture Design](shopfloor_app_arch.pdf)
+![Architecture Design](images/shopfloor_app_arch.pdf)
 
-![Apps - The architecture building blocks](app_anatomy.pdf)
+![Apps - The architecture building blocks](images/app_anatomy.pdf)
